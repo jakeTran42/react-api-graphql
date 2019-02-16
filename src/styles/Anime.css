@@ -1,0 +1,17 @@
+.eachAnime {
+    width: 400px;
+    height: 400px;
+    border-radius: 5px;
+    border: solid 1px grey;
+    margin: 50px;
+    padding: 50px;
+    display: inline-table;
+}
+
+.animeDisplay {
+    display: inline
+}
+
+.eachAnime > h3 {
+    color: rgb(255, 0, 102)
+}

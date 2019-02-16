@@ -1,0 +1,22 @@
+.eachArticle {
+    width: 400px;
+    height: 400px;
+    border-radius: 5px;
+    border: solid 1px grey;
+    margin: 50px;
+    padding: 50px;
+    display: inline-table;
+}
+
+.articleDisplay {
+    display: inline
+}
+
+.eachArticle > h3 {
+    color: rgb(102, 255, 153)
+}
+
+.imageStyle {
+    border-radius: 50%;
+    border: 2px solid black;
+}

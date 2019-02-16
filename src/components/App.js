@@ -1,13 +1,12 @@
 import React, { Component } from 'react';
-import logo from '../logo.svg';
 import '../styles/App.css';
-
-import ChuckJoke from './ChuckAPI/ChuckJoke'
+import Resolve from './Resolver'
 
 class App extends Component {
   render() {
     return (
-      <ChuckJoke />
+      // <ChuckJoke />
+      <Resolve />
     );
   }
 }
